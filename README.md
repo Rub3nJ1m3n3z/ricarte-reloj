@@ -1,0 +1,2 @@
+# ricarte-reloj
+aplicacion wearable
